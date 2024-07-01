@@ -21,5 +21,15 @@ My job as an Data Analyst is to:
   3. Make recommendations for better data practices.
   4. Training the related personals for using and maintaining the dashboard.
 
+# Solution
+Step 1.
+The original recruitment data provided by HR department is in excel document[] and there were hundreds of pages of data.
+Therefore, I worte a python code to iteriate each pages to identify the data tables and copy the data into excel sheets.
+
+Step 2.
+The employee resign data is in excel format but the data are not organized and there are also many unnecessary data spread thorughout huntreds of different sheets.
+In order to extract only the necessary data, I wrote the python code to extract specific columns and combined them into single sheet.
+
+Step 3.
 
 
