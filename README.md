@@ -22,22 +22,27 @@ My job as an Data Analyst is to:
   4. Training the related personals for using and maintaining the dashboard.
 
 # Solution
-Step 1.
+**Step 1.**
 The original recruitment data provided by HR department is in excel document[] and there were hundreds of pages of data.
-Therefore, I worte a python code to iteriate each pages to identify the data tables and copy the data into [Excel Sheet](Extract_data_from_doc.py).
+Therefore, I worte a [python code](Extract_data_from_doc.py) to iteriate each pages to identify the data tables and copy the data into excel sheet.
 
-Step 2.
+**Step 2.**
 The employee resign data is in excel format but the data are not organized and there are also many unnecessary data spread thorughout huntreds of different sheets.
-In order to extract only the necessary data, I wrote the python code to extract specific columns and combined them into single [Excel Sheet](Excel_sheets_combine.py).
+In order to extract only the necessary data, I wrote the [python code](Excel_sheets_combine.py) to extract specific columns and combined them into single excel sheet.
 
-Step 3.
-After getting 2 output excel, I cleaned up the data from the excel file which include null or incorrect data types.
+**Step 3.**
+After getting 2 output excel, I cleaned up the data from the excel file which include null or incorrect data types, make sure format are correct and there is no discrepancy.
 
-Step 4.
+**Step 4.**
 Input the excels sheets into Microsoft Power Bi and construct the data model to connect the two datasets.
+
 ![Sample Data Model](Data_model.png)
 
-Step 5.
+
+
+
+**Step 5.**
 Create data visualization in Power Bi by creating Monthly recruitment/resignation data charts, top branchs with highest resignations, highest resigned positions and total turn over rate. 
 
-![Showing general information of HR Dashboard](Dashboard.png)
+
+![HR Dashboard](Dashboard.png)
