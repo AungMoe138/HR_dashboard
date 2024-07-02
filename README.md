@@ -33,3 +33,5 @@ In order to extract only the necessary data, I wrote the python code to extract 
 Step 3.
 
 
+# Dashboard
+![Showing general information of HR Dashboard](Lotteria_Myanmar_2024.pdf)
