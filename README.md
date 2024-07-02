@@ -28,7 +28,7 @@ Therefore, I worte a python code to iteriate each pages to identify the data tab
 
 Step 2.
 The employee resign data is in excel format but the data are not organized and there are also many unnecessary data spread thorughout huntreds of different sheets.
-In order to extract only the necessary data, I wrote the python code to extract specific columns and combined them into single sheet.
+In order to extract only the necessary data, I wrote the python code to extract specific columns and combined them into single [Excel Sheet](Excel_sheets_combine.py).
 
 Step 3.
 
