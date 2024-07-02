@@ -34,4 +34,4 @@ Step 3.
 
 
 # Dashboard
-![Showing general information of HR Dashboard](Lotteria_Myanmar_2024.pdf)
+![Showing general information of HR Dashboard](Dashboard.png)
